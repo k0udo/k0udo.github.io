@@ -19,7 +19,7 @@ This knowledge base contains:
 - Learning resources and references
 - Best practices and patterns
 - Personal insights from real-world development
-
+- [Understanding Next Token Prediction](NextTokenPrediction.md)
 ## Connect
 
 Feel free to reach out or contribute to this repository!
